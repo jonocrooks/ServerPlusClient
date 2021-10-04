@@ -6,6 +6,8 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+// Task 3: Client Server Loan Processing Application
+
 public class Main extends Application {
 
     @Override
